@@ -1,6 +1,6 @@
 {
-  "name": "updated-polymerfire",
-  "version": "1.0.0",
+  "name": "p-updated-polymerfire",
+  "version": "2.2.3",
   "authors": ["Håkon Wibergh"],
   "description": "Extended polymer Web Components for Firebase",
   "keywords": ["web-component", "polymer", "firebase"],

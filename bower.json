@@ -1,22 +1,11 @@
 {
-  "name": "polymerfire",
-  "version": "2.2.1",
-  "authors": [
-    "Firebase"
-  ],
-  "description": "Polymer Web Components for Firebase",
-  "keywords": [
-    "web-component",
-    "polymer",
-    "firebase"
-  ],
+  "name": "updated-polymerfire",
+  "version": "1.0.0",
+  "authors": ["Håkon Wibergh"],
+  "description": "Extended polymer Web Components for Firebase",
+  "keywords": ["web-component", "polymer", "firebase"],
   "main": "polymerfire.html",
-  "license": "http://polymer.github.io/LICENSE.txt",
-  "homepage": "https://github.com/firebase/polymerfire",
-  "ignore": [
-    "/.*",
-    "/test/"
-  ],
+  "ignore": ["/.*", "/test/"],
   "dependencies": {
     "polymer": "Polymer/polymer#1.9 - 2",
     "firebase": "^4.12.0",
